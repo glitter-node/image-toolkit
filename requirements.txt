@@ -1,0 +1,13 @@
+beautifulsoup4>=4.12,<5
+CairoSVG>=2.7,<3
+fastapi>=0.115,<1
+httpx>=0.27,<1
+httpx2>=2,<3
+Pillow>=11,<13
+pillow-heif>=0.21,<2
+pydantic>=2.10,<3
+pydantic-settings>=2.10,<3
+python-dotenv>=1,<2
+python-multipart>=0.0.6,<1
+pytest>=8,<10
+uvicorn>=0.30,<1
